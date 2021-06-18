@@ -25,6 +25,10 @@
 - [The SELinux coloring book](https://people.redhat.com/duffy/selinux/selinux-coloring-book_A4-Stapled.pdf)
 - [Mommy, why is there a server in the house?](https://imgur.com/gallery/kvATA)
 
+## Theory of Computation
+
+ - [Dori-Mic and the Universal Machine! (A Tragicomic Tale of Combinatorics and Computability for Curious Children of All Ages)](https://dori-mic.org/)
+ 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
