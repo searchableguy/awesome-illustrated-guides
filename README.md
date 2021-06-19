@@ -24,6 +24,8 @@
 - [Google Federated Learning](https://federated.withgoogle.com/)
 - [The SELinux coloring book](https://people.redhat.com/duffy/selinux/selinux-coloring-book_A4-Stapled.pdf)
 - [Mommy, why is there a server in the house?](https://imgur.com/gallery/kvATA)
+- [The Little Schemer](https://mitpress.mit.edu/books/little-schemer-fourth-edition)
+- [The Little Typer](https://www.thelittletyper.com/)
 
 ## Theory of Computation
 
