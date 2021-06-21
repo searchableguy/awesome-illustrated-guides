@@ -24,6 +24,7 @@
 - [Google Federated Learning](https://federated.withgoogle.com/)
 - [The SELinux coloring book](https://people.redhat.com/duffy/selinux/selinux-coloring-book_A4-Stapled.pdf)
 - [Mommy, why is there a server in the house?](https://imgur.com/gallery/kvATA)
+- [Smooth Sailing with Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 
 ## Theory of Computation
 
