@@ -13,6 +13,7 @@
 - [How HTTPs works](https://howhttps.works/)
 - [How DNSSEC works](https://howdnssec.works/)
 - [A cartoon intro to DNS over HTTPS](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
+- [Interneting is Hard](https://www.internetingishard.com/)
 
 ## Programming
 
