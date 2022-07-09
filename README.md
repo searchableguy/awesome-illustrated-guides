@@ -18,7 +18,7 @@
 ## Programming
 
 - [A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/)
-- [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
+- [The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
 - [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://medium.com/hackernoon/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
 - [Google Chrome](https://www.google.com/googlebooks/chrome/)
 - [Google Machine Learning](https://cloud.google.com/products/ai/ml-comic-1)
